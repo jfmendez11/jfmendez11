@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jfmendez11
 - 👀 I’m interested in Mobile development, Blockchain engineering and cloud development
 - 🌱 I’m currently learning Go, Android
-- 💞️ I’m looking to collaborate on proeject related to mobile development
+- 💞️ I’m looking to collaborate on proejects related to mobile development and distributed systems
 - 📫 How to reach me: mendezjuanfelipe7@gmail.com
 
 <!---
